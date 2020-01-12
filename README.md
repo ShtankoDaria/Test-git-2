@@ -1,3 +1,3 @@
 Daria
-Age: 31 and half
+Age: 31 
 Location
